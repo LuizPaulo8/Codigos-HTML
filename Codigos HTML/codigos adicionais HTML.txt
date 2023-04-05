@@ -1,0 +1,18 @@
+<sup> para fazer texto elevado 
+
+
+EX: X2 (ao quadrado)
+
+<sub> para fazer texto elevado para baixo 
+
+EX: H20 (formula da agua o 2 para baixo)
+
+<del> para fazer texto risco tipo EXCLUIDO
+
+<small> para fazer testo peuqeno 
+
+<big> para fazer texto grande 
+
+<mark> para fazer texto marcado tipo marca-texto
+
+<ins> para fazer texto sublimado ou a tag <U>

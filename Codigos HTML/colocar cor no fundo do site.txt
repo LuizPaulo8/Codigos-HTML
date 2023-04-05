@@ -1,0 +1,2 @@
+background color para colocar cor no fundo do site
+em HTML5

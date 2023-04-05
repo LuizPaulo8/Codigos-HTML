@@ -1,0 +1,13 @@
+TODAS AS TAG SAO USADAS DENTRO DA TAG DE CSS: <STYLE>
+
+
+parte do texto ficar alinhado na esquerda usar tag: TEXT-ALIGN: LEFT;
+
+
+titulo do texto ficar no centro da tela usar tag: TEXT-ALIGN: CENTER:
+
+
+paragrafos ficar ajustado dos dois lados na tela usar tag: TEXT-ALIGN: JUSTIFY
+
+
+para dar um espaço do paragrafo no inicio da frase usar tag: TEXT-INDENT:30px

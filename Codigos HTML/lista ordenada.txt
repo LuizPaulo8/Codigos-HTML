@@ -1,0 +1,11 @@
+listas ordenada 
+
+<ol> ordem da lista 
+
+<li> lista na ordem
+
+lista nao ordenada 
+
+<ul>
+
+<type> TIPO da nossa lista itens do lados

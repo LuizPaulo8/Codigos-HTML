@@ -1,0 +1,11 @@
+ div > p {
+display: none
+} (TAG USADA PARA ESCONDER TEXTO DENTRO DE OUTRO TEXTO)
+
+div:hover > p{
+display: block (TAG PARA APARECER O TEXTO ESCONDIDO QUANDO PASSAR MOUSE ENCIMA)
+}
+
+div:hover{
+color: red (FICA VERMELHO QUANDO PASSA O MOUSE ENCIMA)
+}

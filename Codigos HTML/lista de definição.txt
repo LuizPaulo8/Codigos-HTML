@@ -1,0 +1,12 @@
+<dt> TERMO 
+
+EX: <dt> HTML </dt>
+
+<dd> DEFINIÇÃO
+
+EX: linguagem de marcação para conteudo de um site (explica oq é)
+
+<abbr> dizer oq significa a palavra passando mouse encima
+
+EX: HTML=
+HyperTextMarkupLanguage

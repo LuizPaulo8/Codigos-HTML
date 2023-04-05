@@ -1,0 +1,7 @@
+adicionar favicon por HTML
+
+adicionar em head 
+
+codigo: link:favicon 
+
+baixar no site iconarchive

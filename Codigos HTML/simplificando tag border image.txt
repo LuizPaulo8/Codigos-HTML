@@ -1,0 +1,7 @@
+SIMPLIFICANDO AS TAG:  border-image-source: url("borda.png");
+            	     border-image-slice: 20;
+                       border-image-repeat: repeat;
+
+EX:
+
+border-image: url("borda.png") 20 repeat;

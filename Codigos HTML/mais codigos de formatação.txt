@@ -1,0 +1,9 @@
+<code>  para deixar as letras do mesmo tamanho
+
+<pre> tag para ser agrupada no code para manter as linhas e parágrafos organizados
+
+<q> tag usada para por aspas para quando for sitações 
+
+<abbr> para abreviar as frases
+
+<bdo rtl> Tag para inverter o texto

@@ -1,0 +1,5 @@
+<a href="ou o nome do arquivo ou o link">aki na frente o nome que vai colocar 
+para abrir o link</a>
+ex: 
+<a href="nome arquivo">pagina2</a>
+vai aparecer PAGINA2 Para clicar 

@@ -1,0 +1,3 @@
+adicionar tag STYLE para mudar cor doq vc quiser 
+
+EX: <h1 style="color:brown (MUDA A COR DA LETRA) ;">Capítulo 1</h1>

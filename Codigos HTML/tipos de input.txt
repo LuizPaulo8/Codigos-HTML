@@ -1,0 +1,19 @@
+<input type="checkbox" name="curso" value="op1"> nome da caixinha 
+checkbox abre uma caixinha para selecionar ou nao. name nome que vai aparecer na url
+value serve para identificar quais checkbox foram marcados 
+<input type="radio" name="genero" value="m" checked>Masculino   
+radio adiciona uma bolinha para selecionar. checked para ir selecionado ja 
+EX:
+
+<form method="get" action="">
+
+<input type="text" name="email"><br>
+<input type="password" name="senha" placeholder="escrever oque vai aparecer dentro da caixinha"><br>
+<input type="checkbox" name="curso" value="op1"> blue team<br>
+<input type="checkbox" name="curso" value="op2"> red team<br>
+<input type="radio" name="genero" value="m" checked>masculino<br>
+<input type="radio" name="genero" value="f">feminino<br>
+
+<input type="submit" value="limpar"> aparece um botao com o nome limpar
+input type="submit" value="enviar"> aparece um botao com o nome enviar
+</form>

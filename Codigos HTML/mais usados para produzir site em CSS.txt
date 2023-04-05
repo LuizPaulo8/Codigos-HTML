@@ -1,0 +1,33 @@
+font-weight: (ENCHIMENTO DAS LETRAS, GORDURA)
+
+font-size (ESPAÇO DE UMA LETRA PRA OUTRA)
+
+transition-duration (TEMPO DA COR QUANDO PASSA O MOUSE ENCIMA)
+
+text-decoration (TIRAR O UNDERLINE DEBAIXO DO TEXTO)
+
+padding (PREENCHIMENTO E GIRA SENTIDO HORARIO ENCIMA, DIREITA, BAIXO, ESQUERDA)
+
+border-radius (DEIXAR UM QUADRADO COM AS PONTINHAS REDONDA)
+
+max-width: (LARDURA MAXIMA)
+
+text-shadow (SOMBRA NAS LETRA DO TEXTO)
+
+margin: auto ou text align: center (PARA ALINHAR O TEXTO NO MEIO)
+
+min-width (MINIMO LARGURA)
+
+margin-bottom: (MARGEM DEBAIXO DO TEXTO)
+
+border-bottom-left-radius (BORDA INFERIOR ESQUERDA)
+
+line-height: 2em; (ALTURA DA LINHA)
+
+position: relative; (POSIÇÃO VIDEO, IMAGEM, TEXTO)
+
+list-style-position (POSIÇÃO DE LISTA)
+
+columns: 2; (NUMERO DE COLUNAS)
+
+text-indent: (ESPAÇO QUE TEM DO PARÁGRAFO IGUAL EM TEXTO DE PORT)

@@ -1,0 +1,8 @@
+outline-width: 5px;
+outline-style: dashed;
+outline-color: salmon;
+
+
+SIMPLIFICANDO A TAG:
+
+EX: outline: 5px dashed salmon (NÃO PRECISAR SEPARAR USANDO VIRGULA)

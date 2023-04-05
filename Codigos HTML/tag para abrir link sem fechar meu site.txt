@@ -1,0 +1,17 @@
+target=_blank (abre uma nova guia do seu site)  rel=external (link externo que vai pra foraa do meu site) 
+								rel=nofollow (nao siga)
+								rel=next (proxima pagina)
+								rel=prev (voltar para a pagina)
+
+
+target=_self (abre na mesma pagina sem abrir outra guia)
+
+../ (voltar uma pagina)
+
+
+
+
+selecionar a frase onde quer por o link pressionar 
+
+CTRL+SHIFT+P e digita a tag A
+

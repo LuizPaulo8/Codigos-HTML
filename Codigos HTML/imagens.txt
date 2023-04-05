@@ -1,0 +1,27 @@
+<img src="endereço da imagem" alt="escreve oque é a imagem">
+<img src="caminho da imagem mais nome da imagem" alt="escreve oque é a imagem">
+ex:
+<img src="imagem/hack.jpg" alt="foto de hacker">
+EX2: ADICIONANDO IMAGEM COMO LINK
+
+<a href="link da imagem">
+<img src="./imagem/hack.jpg" alt="foto de hacker">
+</a>
+width=300 altera tamanho da imagem
+height=100 altera o tamanho da imagem
+EX:
+<img src="imagem/hack.jpg" alt="foto de hacker" width=200>
+<img src="imagem/hack.jpg" alt="foto de hacker" height=300>
+
+tamanho ideal da imagem para um site 1.500 largura 1.000 de altura 
+resolução ideal 72 ou 50
+
+ideal no conteudo de um site 650 largura 433 altura
+
+width = largura
+height = altura
+
+sites para pegar imagem 
+pexels.com
+unsplash
+

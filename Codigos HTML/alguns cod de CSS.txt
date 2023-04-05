@@ -1,0 +1,19 @@
+background-color: (cor de fundo)
+font-family: (fonte das letras)
+color: (cor da letra)
+font-size: px e em (tamanho da letra)
+
+
+<style>
+        @font-face {
+            font-family: 'Display'; (NOME DA FONTE QUE VC BAIXOU
+            src: url('fonts/Display3dOTF.otf')(LOCAL DA ONDE ESTA A FONTE BAIXADA)
+            format('opentype'); (FORMATO DA FONTE)
+            font-weight: normal; (PESO DA FONTE)
+            font-style: normal; (ESTILO DA FONTE)
+
+
+
+em HTML é id (PODE SER USADO SOMENTE UMA VEZ )=  em CSS é #
+
+em HTML é class (PODE SER USADO EM VÁRIAS TAGS)= em CSS é . 

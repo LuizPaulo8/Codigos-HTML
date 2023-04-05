@@ -1,0 +1,5 @@
+height altuta
+width largura
+border (borda no site)
+
+display: inline-block (por as palavras uma do lado da outra)

@@ -1,0 +1,28 @@
+BOX-LEVEL  		(PARA ALINHAR BOX NO CENTRO) TAG: MARGIN:AUTO				                                   
+<div>
+<h1>-<h6>
+<p>
+<main> (CONTEÚDO PRINCIPAL)
+<header> (CABEÇALHO PARTE DO CONTEUDO)
+<nav> (MENU DENTRO DO CABEÇALHO)
+<article> (ARTIGO)
+<aside> (USADO DENTRO DE ARTICLE)
+<footer> (RODAPÉ DO SITE)
+<form>
+<video>
+<section id=assuntos
+
+
+
+INLINE-LEVEL
+<span>
+<a>
+<code>
+<small>
+<strong>
+<em>
+<sup>-<sub>
+<label>
+<button>
+<input>
+<select>

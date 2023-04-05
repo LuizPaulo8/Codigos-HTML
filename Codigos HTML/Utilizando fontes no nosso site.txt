@@ -1,0 +1,26 @@
+weight= PESO
+
+width= LARGURA
+
+height= ALTURA
+
+font-weight:bolder (PESO DA FONTE)
+
+font-style:italic (ESTILO DA FONTE)
+
+text-decoration:underline (DEIXAR FONTE SUBLINHADA)
+
+
+
+Da para usar todos as tags acima em uma so linha
+na ordem: font-style font-weight font-size font-family (SEMPRE NESSA ORDEM)
+
+
+
+EX: FONT: ITALIC BOLDER 3EM 'WORK SANS', SANS-SERIF;
+
+recomendado 3 fontes para os site
+
+1 para titulos
+1 para destaques
+1 normal

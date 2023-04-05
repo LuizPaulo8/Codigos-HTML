@@ -1,0 +1,11 @@
+<picture> para por imagem usando TAG <img>
+
+dentro da tag <picture> adicionar a TAG <source media= "(max-widht: 750px)"srcset="ESCREVE LOCAL DA IMAGEM" type="image/png(sempre 50px a mais doq o tamanho da imagem)
+
+EX:
+
+ <picture>
+        <source media="(max-width:750px )" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Foto dimensional">
+    </picture>

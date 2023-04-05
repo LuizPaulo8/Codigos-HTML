@@ -1,0 +1,8 @@
+<a href="NOME DOQ VOCE QUER BAIXAR" download= NOME DO AQRUIVO>
+Type=APPLICATION/PDF(TIPO DO DOCUMENTO QUE VC QUER BAIXAR)</a>
+
+
+EX:<a href="livro/meu livro.pdf" download="meu livro.pdf"
+            type="application/pdf">Baixar o Livro em PDF</a></li>
+        <li><a href="livro/meu livro02.zip" download="meu livro02.zip"
+            type="application/zip">Baixar o Livro em ZIP</a></li>

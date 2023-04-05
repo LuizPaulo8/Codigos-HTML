@@ -1,0 +1,22 @@
+tag 	STYLE usa para muda todo o estilo do site (cores, fundo, fonte, cor da fonte, ajuste de texto)
+
+
+
+EX: <style>
+    h1 {
+        background-color: magenta;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+    }
+    h2 {
+    background-color: lavender;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: navy;
+    }
+    p{
+    text-align: justify;
+    }
+
+
+    </style>

@@ -1,0 +1,35 @@
+circulo cromático tons principais: 
+
+cores primárias: AMARELO, AZUL E VERMELHO 
+
+cores secundárias: LARANJA, VIOLETA, VERDE
+
+cores terciárias: AMARELO-ESVERDEADO, AMARELO-ALARANJADO, VERMELHO-ALARANJADO, VERMELHO-ARROZEADO, AZUL-ARROXEADO, AZUL-ESVERDEADO
+
+
+IMPORTANTE: PALETA DE CORES SÂO DE 3 A 5 CORES SOMENTE
+
+
+
+
+cores do lado direto: CORES QUENTES
+
+cores do lado esquero; CORES FRIAS
+
+cores complementares: CORES OPOSTA DO CIRCULO CROMÁTICO
+
+cores análogas: CORES VIZINHAS, SIMILIARIDADE DE CORES
+
+cores análogas e uma complementar: 3 CORES VIZINHAS E 1 OPOSTA DA PRINCIPAL
+
+cores análogas e relacionadas: 2 CORES VIZINHAS PRINCIPAIS PULA 1 COR E PEGA A PROXIMA COR PARA FAZER CONTRASTE
+
+cores intercaladas: ESCOLHE 1 COR PULA 1 E ESCOLHE A PRÓXIMA
+
+cores triádicas: PEGA 1 COR DE REFERENCIA PULA 3 E PEGA A PRÓXIMA
+
+cores em quadrado: PEGA 1 COR DE REFERENCIA PULA 2 E PEGA A PRÓXIMA
+
+cores tretádicas: PEGA 2 COR E PEGA 2 COR OPOSTA
+
+cores monocromia: PEGA 1 COR E MUDA A SATURAÇÂO E LUMINOSIDADE

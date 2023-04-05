@@ -1,0 +1,13 @@
+<ul>cria listas com ° </ul>
+<ol>cria listas com 1. </ol>
+ex1:
+<ul>
+<li>gabriel</li>
+<li>bruno</li>
+</ul>
+ex2:
+<ol>
+<li>gabriel</li>
+<li>bruno</li>
+</ol>
+
